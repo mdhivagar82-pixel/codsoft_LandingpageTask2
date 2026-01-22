@@ -20,4 +20,5 @@ This project demonstrates section layout, alignment, and styling techniques for 
 - CSS
 ## Developed By
 **Dhivagar M**
+
 Web Development Intern – CodSoft
